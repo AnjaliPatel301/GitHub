@@ -124,10 +124,6 @@ Currently working on:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnjaliPatel301&theme=tokyonight)
 
-## 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliPatel301&layout=compact&theme=tokyonight)
-
 
 ⭐ From [AnjaliPatel301](https://github.com/AnjaliPatel301)
 

@@ -48,9 +48,8 @@ Currently working on:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,Boostarp,html,tailwind,css,js,react,git,github,vscode,mangodb,express,nodejs,windsurt" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,git,github,vscode,npm" />
 </p>
-
 ---
 
 ## 🌱 Currently Learning
@@ -113,7 +112,6 @@ Currently working on:
 ## 🐍 Contribution Snake
 
 ![Snake](https://github.com/AnjaliPatel301/AnjaliPatel301/blob/output/github-snake.svg)
-
 ---
 
 ### 💡 Quote of the Day

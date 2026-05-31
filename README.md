@@ -68,7 +68,8 @@ Currently working on:
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnjaliPatel301&theme=tokyonight" />
-</p>
+</p
+  
 
 ---
 

@@ -75,15 +75,11 @@ Currently working on:
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnjaliPatel301&theme=tokyonight" />
-</p>
-
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnjaliPatel301&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribution Graph
 
-[![Sauraf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnjaliPatel301&theme=tokyo-night)](https://github.com/AnjaliPatel301)
+[![Anjali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnjaliPatel301&theme=tokyo-night)](https://github.com/AnjaliPatel301)
 
 ---
 
